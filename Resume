@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Shaswata Sengupta </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  <header>
+    <nav>
+      <a href="#Contact" >Contact</a>
+    </nav>
+    <nav>
+      <a href="#Skills" >Skills</a>
+    <nav>
+        <a href="#Projects">Projects</a>
+    </nav>
+    <nav>
+      <a href="Education">Education</a>
+    </nav>
+    <nav>
+      <a href="#Hobbies" >Hobbies</a>
+    </nav>
+    <nav>
+      <a href= "#Social media links" >Social media links</a>
+    </nav>
+  </header>
+<body>
+<h1><u>Shaswata Sengupta</u></h1>
+  <h2 id="Contact">Contact</h2><hr>
+  <ul>
+    <li>Phone no: </li>
+    <li>Email: </li>
+    <li>Address: </li>
+  </ul>
+  <h2 id="Skills" >Skills</h2><hr>
+  <ul  >
+    <li>Html </li>
+    <li>Css </li>
+    <li>JavaScript </li>
+  </ul>
+  <h2 id="Projects">Projects</h2><hr>
+  <h2 id="Education">Education</h2><hr>
+  <h2 id="Hobbies">Hobbies</h2><hr>
+  <h2 id="Social media links">Social media links</h2>
+  </body>
+</html>
